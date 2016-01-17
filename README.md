@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # WebVR Boilerplate
 
 A [THREE.js][three]-based starting point for VR experiences that work well in
@@ -123,3 +124,7 @@ As well as emitting the following events:
 [spec]: http://mozvr.github.io/webvr-spec/webvr.html
 [dm]: https://twitter.com/dmarcos
 [doob]: https://twitter.com/mrdoob
+=======
+# vr_threejs
+A web vr three.js experiment
+>>>>>>> 25fc3dc47f09ee1bd99440d5d9f626e1cdd1b6bd
